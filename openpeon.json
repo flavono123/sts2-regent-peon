@@ -1,0 +1,393 @@
+{
+  "cesp_version": "1.0",
+  "name": "sts2_regent",
+  "display_name": "Slay the Spire 2 Regent",
+  "description": "Regent voice lines from Slay the Spire 2 \u2014 the regal playable character's greetings, impatient barks, smug remarks, triumphs, pain, and dramatic deaths",
+  "version": "1.0.0",
+  "author": {
+    "name": "flavono123",
+    "github": "flavono123"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "en",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/regent_greeting_1.wav",
+          "label": "Greeting 1",
+          "sha256": "98526802b7d7329f108dbe6b8fc711ebe1500b33d4216e1514cd74cce7098e5d"
+        },
+        {
+          "file": "sounds/regent_greeting_2.wav",
+          "label": "Greeting 2",
+          "sha256": "a593de28bf67c7dec008de12fef6ac0cbc3e08cac1eee0a2fe2b2e2ab4c4a113"
+        },
+        {
+          "file": "sounds/regent_greeting_3.wav",
+          "label": "Greeting 3",
+          "sha256": "da5d34e666d562f3bcfabf4d13744d193b6a0100afebfa96776b935a673d4cf9"
+        },
+        {
+          "file": "sounds/regent_greeting_4.wav",
+          "label": "Greeting 4",
+          "sha256": "44cede96374740a8a4bf692a3c2da1850bef61cdd0b61084a0f3ba4d5652014a"
+        },
+        {
+          "file": "sounds/regent_greeting_5.wav",
+          "label": "Greeting 5",
+          "sha256": "e7dbe0845a45f1483a7782e10258470ea86694cae7478345edb46d168fcabbd4"
+        },
+        {
+          "file": "sounds/regent_greeting_6.wav",
+          "label": "Greeting 6",
+          "sha256": "37e98ab65183e0ed5f5eda0e9a6ff93481c5f0658ea9d30c8ef771cadc78ee26"
+        },
+        {
+          "file": "sounds/regent_greeting_7.wav",
+          "label": "Greeting 7",
+          "sha256": "b1dd53bfc0deb0f40570c36c3ae14a65f35a5d79cd3fd0db1ef1ee225de444ea"
+        },
+        {
+          "file": "sounds/regent_greeting_8.wav",
+          "label": "Greeting 8",
+          "sha256": "e31d2746f413b4c401f14713f5986c6d4e70cd52adb45e7dc12bfc108b1c73eb"
+        },
+        {
+          "file": "sounds/regent_greeting_9.wav",
+          "label": "Greeting 9",
+          "sha256": "7faa0222aa98ad17ed08dd6acb24be46f227672881fad8f4c9349b1459ecbb10"
+        },
+        {
+          "file": "sounds/regent_greeting_10.wav",
+          "label": "Greeting 10",
+          "sha256": "83001076547a8a387533f34d5db97e944b57cecedb9d81bdfd627c075671dc55"
+        },
+        {
+          "file": "sounds/regent_greeting_11.wav",
+          "label": "Greeting 11",
+          "sha256": "3a7fe719b3c75b6761bb0a6f18c1f16a141ef37cd81be938c626b9fa38bd6cc5"
+        },
+        {
+          "file": "sounds/regent_greeting_12.wav",
+          "label": "Greeting 12",
+          "sha256": "f0ed795a655b326a01cbd0dcd16369d303ebda5b04627084150a7a48929d16a7"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/regent_superior_1.wav",
+          "label": "Superior 1",
+          "sha256": "38b33028d6980c2418a946624a2f559357ad0dd0cde911941193046f5883ea8c"
+        },
+        {
+          "file": "sounds/regent_superior_2.wav",
+          "label": "Superior 2",
+          "sha256": "8301342b816c3173c844f41e4b652c5633e697ec1493859662b9da4066063cfc"
+        },
+        {
+          "file": "sounds/regent_superior_3.wav",
+          "label": "Superior 3",
+          "sha256": "272de581d1cd96941781b1191c5180d673c39fd971e7734c07ee125e6ebcc7b5"
+        },
+        {
+          "file": "sounds/regent_superior_4.wav",
+          "label": "Superior 4",
+          "sha256": "d1c144642f88a5be91d255851f306417199dde14cc4924ebc61a2a9eaf4522b5"
+        },
+        {
+          "file": "sounds/regent_superior_5.wav",
+          "label": "Superior 5",
+          "sha256": "6302c0a70f3212c7b409775934511c9555f2f8f6d180b226a207918c8b61249f"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/regent_triumphant_1.wav",
+          "label": "Triumphant 1",
+          "sha256": "0c051faba5837b8127e2b921ccbc9a2e45c4ca499900611af6a6e59a6192a2af"
+        },
+        {
+          "file": "sounds/regent_triumphant_2.wav",
+          "label": "Triumphant 2",
+          "sha256": "e397d00ed830e4c41754dd14ba88faf082aa88475c29d29f0df4e8e4f81fdb67"
+        },
+        {
+          "file": "sounds/regent_triumphant_3.wav",
+          "label": "Triumphant 3",
+          "sha256": "3d77fb3d7420cf0383d3e99f9cf992582d820b6fed18ba2cb30539b7b4431160"
+        },
+        {
+          "file": "sounds/regent_triumphant_4.wav",
+          "label": "Triumphant 4",
+          "sha256": "0c53c4bab6fc580b0f8bbe028be807c8a77a494048a18882b368cdad2f07f2c0"
+        },
+        {
+          "file": "sounds/regent_triumphant_5.wav",
+          "label": "Triumphant 5",
+          "sha256": "6d6ec7e082f1882244198f3dfe9eb3c168aa01c05c139394630225ca8a5f50a7"
+        },
+        {
+          "file": "sounds/regent_triumphant_6.wav",
+          "label": "Triumphant 6",
+          "sha256": "3a5890fe1fd0f060471a1372423cd08afdb574451bb83f27c8e61469d595ac5d"
+        },
+        {
+          "file": "sounds/regent_triumphant_7.wav",
+          "label": "Triumphant 7",
+          "sha256": "0afd87385ca774ff32420b065db39562bf4131e660534a756826aef75b15e46b"
+        },
+        {
+          "file": "sounds/regent_triumphant_8.wav",
+          "label": "Triumphant 8",
+          "sha256": "5ae6561f228f3bb843148835a1e7ce0044ec8c2b5c15bcd7442658ee89e69cf5"
+        },
+        {
+          "file": "sounds/regent_triumphant_9.wav",
+          "label": "Triumphant 9",
+          "sha256": "7d012c716ef13bb6bc8d34bdba3695dda1d82fb3039a40ac5e8b302b66df1086"
+        },
+        {
+          "file": "sounds/regent_triumphant_10.wav",
+          "label": "Triumphant 10",
+          "sha256": "245da3dbd6753a97cd048133da5b68db49eaf8c8631c79524037c1a627d90ca1"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/regent_hurt_low_1.wav",
+          "label": "Hurt (low) 1",
+          "sha256": "d130563043caeddf34f74c0bd012200bf4ab56fb5fb23c3ff8fbe3a8ccb4f80f"
+        },
+        {
+          "file": "sounds/regent_hurt_low_2.wav",
+          "label": "Hurt (low) 2",
+          "sha256": "e5a7ddc7f679d26089b4b51d1cffd6997527c66916278370e068184a67bccafc"
+        },
+        {
+          "file": "sounds/regent_hurt_low_3.wav",
+          "label": "Hurt (low) 3",
+          "sha256": "6042fb0dd39f3813f3a8ba41815cbbb698025626b391f06d5940aca008949b9b"
+        },
+        {
+          "file": "sounds/regent_hurt_low_4.wav",
+          "label": "Hurt (low) 4",
+          "sha256": "5e216395d7b22feacf151d9d650972a7e4df5e5ee8129bc008289b34a3d23a04"
+        },
+        {
+          "file": "sounds/regent_hurt_low_5.wav",
+          "label": "Hurt (low) 5",
+          "sha256": "8b8c2d0c7bf6b2b35611b0556ec92e28b60bc6468cd6793c532299d07ad62d83"
+        },
+        {
+          "file": "sounds/regent_hurt_low_6.wav",
+          "label": "Hurt (low) 6",
+          "sha256": "392245a1da2b28b2e0983c0285890a7ebb5a8287e09f8fbe80be5404223a021f"
+        },
+        {
+          "file": "sounds/regent_hurt_low_7.wav",
+          "label": "Hurt (low) 7",
+          "sha256": "7295ba5d561025d9927d1a8140340b20fc57491b300b9e0d4b971711422652cf"
+        },
+        {
+          "file": "sounds/regent_hurt_low_8.wav",
+          "label": "Hurt (low) 8",
+          "sha256": "1e002f09d6e0c093d7bdca3ea0d7bc74c355ae7d2d321a1fb6c3f724519b4832"
+        },
+        {
+          "file": "sounds/regent_hurt_low_9.wav",
+          "label": "Hurt (low) 9",
+          "sha256": "d3a28408ff9f8de337780db98d58fad2dd29a6d300cea8c9e1d343e4fd70a16a"
+        },
+        {
+          "file": "sounds/regent_hurt_low_10.wav",
+          "label": "Hurt (low) 10",
+          "sha256": "2999f369bcf3e72faa042af3c0f5a72301be08eb810d32c2511e9670059ba630"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/regent_impatient_1.wav",
+          "label": "Impatient 1",
+          "sha256": "e230f9f175a55508f5de6fb769bec463f986663782e924ec72a4f9cf6d8fd9f0"
+        },
+        {
+          "file": "sounds/regent_impatient_2.wav",
+          "label": "Impatient 2",
+          "sha256": "535986d3386a570c615f6b083ec7a333a5a5db3364f5198832470efa8d6a643b"
+        },
+        {
+          "file": "sounds/regent_impatient_3.wav",
+          "label": "Impatient 3",
+          "sha256": "230122b772d94c9c5f1dd1a0c62a24a69e56cf592843baf6830c26f2611a7450"
+        },
+        {
+          "file": "sounds/regent_impatient_4.wav",
+          "label": "Impatient 4",
+          "sha256": "156b6836a0bb906b5cfb5f60149a388b4de20d8eac19b5ee9a475adafc17b313"
+        },
+        {
+          "file": "sounds/regent_impatient_5.wav",
+          "label": "Impatient 5",
+          "sha256": "5c248b9ae237df85ed0df3767b34408616a24551d8b1132c27bb0718651e6207"
+        },
+        {
+          "file": "sounds/regent_impatient_6.wav",
+          "label": "Impatient 6",
+          "sha256": "4dbb1c375499b140d127a746b5b5c4e6acbd52f4b75bd2afa04940c15b67ca7f"
+        },
+        {
+          "file": "sounds/regent_impatient_7.wav",
+          "label": "Impatient 7",
+          "sha256": "23de6d4c11d9b85a325ed321f16ce0d373ad992e8e4b8b5b26d033ec10c07c63"
+        },
+        {
+          "file": "sounds/regent_impatient_8.wav",
+          "label": "Impatient 8",
+          "sha256": "dff351af1d88f177ce1ca5952e5fa7b5df16a4968b3fda6d56ad0531df0354b5"
+        },
+        {
+          "file": "sounds/regent_impatient_10.wav",
+          "label": "Impatient 10",
+          "sha256": "df15b372c532aacee60c57470431e122d6ff9dc401a74e29b15c7872ee2ebd68"
+        },
+        {
+          "file": "sounds/regent_impatient_11.wav",
+          "label": "Impatient 11",
+          "sha256": "fb1b3cbe08444343a9065222815dd027ea86f4c90681b6051fc120503dd0af1e"
+        },
+        {
+          "file": "sounds/regent_impatient_12.wav",
+          "label": "Impatient 12",
+          "sha256": "fbe228ce805507dd8fd4db8ae790861b5dcf6f4d76e7e403c66a04aeb3b0939e"
+        },
+        {
+          "file": "sounds/regent_impatient_13.wav",
+          "label": "Impatient 13",
+          "sha256": "e0a0e6d7b50747495975b709d5c42bf131d050b77cae638939973ea47caf85d9"
+        },
+        {
+          "file": "sounds/regent_impatient_14.wav",
+          "label": "Impatient 14",
+          "sha256": "f42a6dfc0c4c6a7474d1b1998a92c879f3b4e64e6caa5819c5c19bb123e59fe4"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/regent_hurt_mid_1.wav",
+          "label": "Hurt (mid) 1",
+          "sha256": "84ca7347b0ec34789742155b85cf04339c7ebb04435cbc97a59aa4dfec994b44"
+        },
+        {
+          "file": "sounds/regent_hurt_mid_2.wav",
+          "label": "Hurt (mid) 2",
+          "sha256": "fa16162f5466dc4007dd41244090297497e63d09057b3b0eb480ca89a7265c31"
+        },
+        {
+          "file": "sounds/regent_hurt_mid_3.wav",
+          "label": "Hurt (mid) 3",
+          "sha256": "b5fcd0fe1937d5b9c44b08309ba559bb4e54740524466a74b1c3e77f08407a0d"
+        },
+        {
+          "file": "sounds/regent_hurt_mid_4.wav",
+          "label": "Hurt (mid) 4",
+          "sha256": "aeb3aac98e9fce7a6b1a3da547e811381c3afee9289448ec93caf464d9bcc070"
+        },
+        {
+          "file": "sounds/regent_hurt_mid_5.wav",
+          "label": "Hurt (mid) 5",
+          "sha256": "b230eae47e548a02abca6cfb35719a96e743c36cc69271182dd8fa5f5ef51967"
+        },
+        {
+          "file": "sounds/regent_hurt_mid_6.wav",
+          "label": "Hurt (mid) 6",
+          "sha256": "87b223e59d603669595259d7fbeb7160937a27dee58353078b639332831af50f"
+        },
+        {
+          "file": "sounds/regent_hurt_mid_7.wav",
+          "label": "Hurt (mid) 7",
+          "sha256": "c6383ba25186a87635e591384659a38e586e6ec57e2adf132b754787ce365687"
+        },
+        {
+          "file": "sounds/regent_hurt_mid_8.wav",
+          "label": "Hurt (mid) 8",
+          "sha256": "f5282c3cfdb342c58f6ecd022923a7a399ee8822dcfcca3716c301fb8ea13609"
+        },
+        {
+          "file": "sounds/regent_hurt_high_1.wav",
+          "label": "Hurt (high) 1",
+          "sha256": "46532fc8b4260516a1048150f41f14ca023cac3d667e684d8ef47465e939f5b8"
+        },
+        {
+          "file": "sounds/regent_hurt_high_2.wav",
+          "label": "Hurt (high) 2",
+          "sha256": "41a9d88e5d1bb174a018e9e3c4439e845f91be7b21989b8f0089dd958aa7cf01"
+        },
+        {
+          "file": "sounds/regent_hurt_high_3.wav",
+          "label": "Hurt (high) 3",
+          "sha256": "d3bef8fb9e2f8032c8aafbb1a10e3ada3d861d86120e038bfa14ea1bea6e06f8"
+        },
+        {
+          "file": "sounds/regent_hurt_high_4.wav",
+          "label": "Hurt (high) 4",
+          "sha256": "e70f17c5768719add4ece48e253683b07f819fb53ff712f205bde3c5c7c47958"
+        },
+        {
+          "file": "sounds/regent_hurt_high_5.wav",
+          "label": "Hurt (high) 5",
+          "sha256": "6b23949a7da03f38199974424d26ffc9d32f368cfc5dc745edb4c5b77b605be0"
+        },
+        {
+          "file": "sounds/regent_hurt_high_6.wav",
+          "label": "Hurt (high) 6",
+          "sha256": "641617301391db5d29cf82ffb0387bfc2ba589201eb1839fdaddfa6fb7c2b35b"
+        },
+        {
+          "file": "sounds/regent_hurt_high_7.wav",
+          "label": "Hurt (high) 7",
+          "sha256": "18c1cd90ea1f0172df5c56c986c2c7e7a6d6cbad00389d0466cd474c7e1294d3"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/regent_die_1.wav",
+          "label": "Dying 1",
+          "sha256": "60d42bc802db77851bb801d5d4cc7c3f5f35bade4c8b792cb0c734ae9cefd8cd"
+        },
+        {
+          "file": "sounds/regent_die_2.wav",
+          "label": "Dying 2",
+          "sha256": "849705a26330cbf3ed2e7b2a643bfa9751e50820c409f1d8d1701f618a64f4d4"
+        },
+        {
+          "file": "sounds/regent_die_3.wav",
+          "label": "Dying 3",
+          "sha256": "7f2b44e9d802cea12a5befdcd4f39c84e36bd44473ee66ffcff1ed940470b22b"
+        },
+        {
+          "file": "sounds/regent_die_4.wav",
+          "label": "Dying 4",
+          "sha256": "b1ca4910d760b850540fb7668e37c30ae218532b4dcf40236c32cec2672e42f2"
+        },
+        {
+          "file": "sounds/regent_die_5.wav",
+          "label": "Dying 5",
+          "sha256": "1f017f67acd953f442e71e1883de60fe3e9c90f3169d43322b8afae2efd01922"
+        }
+      ]
+    }
+  }
+}
